@@ -1,8 +1,8 @@
 # RECONX — AI-Automated Reconnaissance and Enumeration Tool
 
-> **TM471 Final Year Project — Arab Open University Egypt**  
+>   
 > **Author:** Ziad Khafaga  
-> **Faculty:** Computer Studies  
+>  
 
 ---
 
